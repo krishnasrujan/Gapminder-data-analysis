@@ -1,4 +1,4 @@
-Country,Year,fertility,life,population,child_mortality,gdp,region
+Country,Year,fertility,life_expectancy,population,child_mortality,gdp,region
 Afghanistan,1964,7.671,33.639,10474903.0,339.7,1182.0,South Asia
 Afghanistan,1965,7.671,34.152,10697983.0,334.1,1182.0,South Asia
 Afghanistan,1966,7.671,34.662,10927724.0,328.7,1168.0,South Asia
